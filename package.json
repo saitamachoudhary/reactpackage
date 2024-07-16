@@ -1,5 +1,5 @@
 {
-  "name": "reactpackage",
+  "name": "reactpackagecustom",
   "version": "1.0.0",
   "description": "custom react package",
   "main": "dist/index.js",
